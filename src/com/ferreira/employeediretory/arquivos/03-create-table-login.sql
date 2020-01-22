@@ -7,3 +7,4 @@ CREATE TABLE `tbl_login` (
 
 
 insert tbl_login (email, password) values ("teste@mydominio","jsp&servlet");
+insert tbl_login (email, password) values (your_user,create_password);
